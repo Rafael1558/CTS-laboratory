@@ -1,5 +1,5 @@
 package ro.ase.cts.g1092.refactor.exceptions;
 
-public class InvalidYearsSinceRegistrationException {
-
+public class InvalidYearsSinceRegistrationException extends Exception {
+	
 }
