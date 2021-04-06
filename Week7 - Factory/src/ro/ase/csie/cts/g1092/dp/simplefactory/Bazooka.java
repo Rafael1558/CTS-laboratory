@@ -1,5 +1,6 @@
 package ro.ase.csie.cts.g1092.dp.simplefactory;
 
+
 public class Bazooka extends AbstractWeapon {
 
 	public Bazooka(String desc) {
@@ -9,7 +10,7 @@ public class Bazooka extends AbstractWeapon {
 	
 	@Override
 	public void pewPew() {
-		System.out.println("BOOOM *********");
+		System.out.println("BOOOM **********");
 	}
 
 }

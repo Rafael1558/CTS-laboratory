@@ -10,6 +10,7 @@ public class SuperHero {
 		this.name = name;
 	}
 	
+	
 	public AbstractWeapon getWeapon() {
 		return weapon;
 	}
