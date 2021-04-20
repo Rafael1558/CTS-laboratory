@@ -12,6 +12,7 @@ public class Group extends AbstractNode {
 		this.groupName = groupName;
 	}
 
+	
 	@Override
 	public void attack(String playerName) {
 		for(AbstractNode node : nodes) {
