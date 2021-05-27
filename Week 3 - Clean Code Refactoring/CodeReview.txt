@@ -19,6 +19,7 @@ Code review
 -reduce the complexity from the getPriceWithDiscount - repeating pattern
 -remove the switch by refactoring the first case to match the others
 
+
 5. Single Responsaibility & Dependency inversion(DiP)
 -refactor custom exceptions framework
 - remove the dependency on how we validate the price and the account age
